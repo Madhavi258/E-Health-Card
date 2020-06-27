@@ -37,4 +37,4 @@ For account request refer 'laboratory_request' table.
 For history refer 'laboratory_history' table.
 
 We are using localhost. So Report files are stored in our machine.
-To view uploaded report from the module go to the folder upload- Vida_Code\vida\hms\laboratory\uploads.
+To view uploaded report from the module go to the folder upload- vida\hms\laboratory\uploads.
