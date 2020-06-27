@@ -3,7 +3,7 @@ Using Web-Portal and Mobile Apps, We created Medical card which can be used to s
 
 Demonstration: https://drive.google.com/file/d/10XHU6gRIJUF0oVYh3_c44EF2nd_8xNse/view?usp=sharing
 
-Vida.zip file contains the code of all web portals that we included in our portal. Portal contains Doctor, Patient, Laboratory and Admin Modules.
+Vida.zip file contains the code of all web portals that we included in our portal. Portal contains Doctor, Patient, Laboratory and Admin Modules. Doctor, Laboratory and Patient modules are designed according to their roles and to handle all of them Admin module is designed. We also taken care about Fraud IDs. We ensure that no fraud Doctor or Laboratory can be enter in our system because we have to take care about patient's medical history. Theft of medical history can cause many of negative things, so we handle all such fraud Ids and not allow them to enter into the system.
 
 Module Login Usage:
 -------------------
